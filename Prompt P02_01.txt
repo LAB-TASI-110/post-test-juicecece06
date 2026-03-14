@@ -1,0 +1,3 @@
+tolong berikan code dalam bahasa c untuk menyelesaikan masalah terkait pengiriman barang "DEL EXPRESS" dengan ketentuan gunakan struct untuk menyimpan data pakeet
+ gunaakn looping untuk menerima input kode kota,berat butet dan berat ucok,proses input berhenti jika mengetik end,lalu tampilkan output berupa struk yang berisi: kota tujuan,berat paket butet,berat paket ucok,total berat,total ongkos kirim,informasi promo yang diperoleh dan pastikaan kodenya mengikuti standar c99
+ sudah pas kah outputnya ini ?

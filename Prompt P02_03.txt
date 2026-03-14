@@ -1,0 +1,2 @@
+tolong bantu sayamembuat program bahasa c untuk sistem operasional kafetaria IT Del  
+dimana programnya harus memiliki fitur 1.mengguunakan SRUCT untuk menyimpan data menu seperti nama makanan,harga,dan stok,2.menampilkan daftar menu yang tersedia kepada pengguna 3.memungkinkan pengguna memilih menu dan memasukkan jumlah porsi yang dibeli,3.mengurangi stok secara otomatis setelah pesanan divalidsi 5.menampilkan total biaya yang harus dibayar di akhir trasaksi mohon buatkan kodenya menggunakan standar C99 agar lebih rapi dan mudah saya pahami
